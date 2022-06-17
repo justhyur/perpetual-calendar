@@ -1,4 +1,5 @@
 {
+  "homepage": "https://scririck.github.io/perpetual-calendar/",
   "name": "perpetual-calendar",
   "version": "0.1.0",
   "private": true,
@@ -15,7 +16,6 @@
     "sass": "^1.52.3",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "https://scririck.github.io/perpetual-calendar/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
