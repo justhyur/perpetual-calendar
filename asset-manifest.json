@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/perpetual-calendar/static/css/main.cd6062a8.css",
+    "main.js": "/perpetual-calendar/static/js/main.a1cb6076.js",
+    "static/js/787.69068a1d.chunk.js": "/perpetual-calendar/static/js/787.69068a1d.chunk.js",
+    "index.html": "/perpetual-calendar/index.html",
+    "main.cd6062a8.css.map": "/perpetual-calendar/static/css/main.cd6062a8.css.map",
+    "main.a1cb6076.js.map": "/perpetual-calendar/static/js/main.a1cb6076.js.map",
+    "787.69068a1d.chunk.js.map": "/perpetual-calendar/static/js/787.69068a1d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd6062a8.css",
+    "static/js/main.a1cb6076.js"
+  ]
+}
